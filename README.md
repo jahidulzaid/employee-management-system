@@ -1,6 +1,6 @@
-# Employee Management System
+# Employee Information System
 
-The Employee Management System is a shell-based application to manage employee information efficiently. It allows administrators to perform CRUD operations, search and sort records, and view employee data based on various criteria.
+The Employee Information System is a shell-based application to manage employee information efficiently. It allows administrators to perform CRUD operations, search and sort records, and view employee data based on various criteria.
 
 ---
 
@@ -9,7 +9,7 @@ The Employee Management System is a shell-based application to manage employee i
 ### Authentication
 - **Login System**: Secure login with admin credentials to access the system.
 
-### Employee Information Management
+### Employee Information Information
 - **Add New Employee**: Add detailed information about employees, including ID, name, address, gender, department, salary, etc.
 - **Modify Employee Records**: Update specific fields in an employee's record.
 - **Delete Employee Records**: Remove an employee's record from the database.
@@ -39,8 +39,8 @@ The Employee Management System is a shell-based application to manage employee i
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/your-username/employee-management-system.git
-cd employee-management-system
+git clone https://github.com/your-username/employee-information-system.git
+cd employee-information-system
 ```
 ---
 ## Setup and Usage
