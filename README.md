@@ -41,3 +41,15 @@ The Employee Management System is a shell-based application to manage employee i
 ```bash
 git clone https://github.com/your-username/employee-management-system.git
 cd employee-management-system
+```
+---
+## Setup and Usage
+
+## Login Information
+- Username: admin
+- Password: 123
+These credentials are hardcoded for demonstration purposes. You can modify them in the script as needed.
+
+## Database File
+The application uses a plain text file (database.txt) to store employee data. The file is automatically created if it does not exist when the application starts.
+
